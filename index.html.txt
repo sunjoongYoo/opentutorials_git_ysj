@@ -13,6 +13,8 @@
 		<li>버전이란?</li>
 		<li>Git이란?</li>
 		<li>Branch</li>
+		<li>브랜치</li>
+
 	</ul>
 </body>
 
