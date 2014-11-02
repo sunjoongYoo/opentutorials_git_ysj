@@ -1,4 +1,8 @@
 <!DOCTYPE html>
 <html lang = "ko">
-<head></head>
+<header>
+	<body>
+		<h1>Git</h1>
+	</body>
+</header>
 </html>
