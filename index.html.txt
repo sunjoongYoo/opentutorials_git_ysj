@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang = "ko">
 <head>
+	<meta>
+	<title>Git ¼Ò°³</title>
 </head>
 <body>
 	<header>
